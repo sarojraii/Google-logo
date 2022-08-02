@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+    
+.main{
+    background-color: #ddebf8  ;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    padding-top: 30px;
+    padding-right: 2opx;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    justify-content: space-around;
+    display: flex;
+    width: 400px;
+    text-align: center;
+    color: #2b2839;
+    border-bottom: 6px solid #d8cefe;
+}
+
+.photo{
+    width: 150px;
+}
+.italic{
+    font-style: italic;
+}
+
+ul{
+    list-style: none;
+}
+
+.border-blue{
+    border: 1px;
+    
+}
+
+h3{
+    margin-top: 20px;
+}
+
